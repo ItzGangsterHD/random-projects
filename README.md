@@ -1,1 +1,1 @@
-# Tic Tac Toe written in Python!
+Tic Tac Toe written in Python
